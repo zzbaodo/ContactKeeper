@@ -1,0 +1,3 @@
+{"mongoURI": "mongodb+srv://baodo:baodo@cluster0.heyi7.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+    "secret" :"baodo"
+}
